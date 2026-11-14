@@ -37,15 +37,15 @@ catalogs:
     eslint-plugin-unimport: ^2.0.0
     export-size: ^0.8.0
     lint-staged: ^17.2.0
-    nuxt: ^4.5.1
+    nuxt: ^4.6.3
     ofetch: ^1.5.1
     pnpm: ^11.17.0
     postcss: ^8.5.24
     postcss-nested: ^7.0.2
     prettier: ^3.9.6
     semver: ^7.8.5
-    sharp: ^0.35.3
-    simple-git: ^3.36.0
+    sharp: ^0.35.5
+    simple-git: ^4.0.1
     simple-git-hooks: ^2.13.1
     taze: ^19.16.0
     tinyglobby: ^0.2.17
@@ -56,7 +56,7 @@ catalogs:
     typescript: ^6.0.3
     unimport: ^6.3.1
     unocss: ^66.7.5
-    vite: ^8.1.5
+    vite: ^8.1.6
     vite-plugin-inspect: ^11.4.1
     vue: ^3.5.40
     vue-tsc: ^3.3.8
@@ -76,12 +76,12 @@ catalogs:
     yaml: ^2.9.0
   integrations:
     '@nuxt/kit': ^4.5.1
-    '@nuxt/schema': ^4.5.1
+    '@nuxt/schema': ^4.6.4
     async-validator: ^4.2.5
-    axios: ^1.18.1
+    axios: ^1.20.0
     change-case: ^5.4.4
     drauu: ^1.0.0
-    electron: ^13.1.0
+    electron: ^42.11.16
     firebase: ^12.16.0
     focus-trap: ^8.2.2
     fuse.js: ^7.5.0
